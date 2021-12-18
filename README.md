@@ -10,6 +10,8 @@ Techna Sans is free both for personal and commercial use.
 **[Download Techna Sans](https://github.com/carlenlund/techna-sans/releases/download/1.003/techna-sans-1.003.zip)**
 
 ![](images/title.png)
+![steal](https://user-images.githubusercontent.com/87349230/146624398-6229241b-fb19-4035-b9bb-cc7f43d64a49.png)
+
 
 ## OpenType features
 
